@@ -30,3 +30,9 @@ python src/main.py
 - 确保你的电脑连接了摄像头。
 - 可根据实际情况调整 `check_pose_accuracy` 函数中的标准比例范围。
 ```
+
+#### 5. 创建 GitHub 仓库并上传代码
+1. 登录 GitHub，创建一个新的仓库，仓库名可设为 `home_rehab_movement_detection`。
+2. 在本地项目根目录下，初始化 Git 仓库：
+```bash
+git init
